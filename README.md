@@ -13,7 +13,7 @@
 ### 🔑 Demo Credentials
 **User**  
 - Email: `user.greatstack@prescripto.com`  
-- Password: `qwerty123`  
+- Password: `12345678`  
 
 **Admin**  
 - Email: `admin@prescripto.com`  
