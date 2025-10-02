@@ -4,10 +4,10 @@
 ---
 
 ## 🌐 Live Demo
-- **User Portal**: [https://prescripto-priya-frontend.vercel.app/]
+- **User Portal**: [https://priya-one-tau.vercel.app/]
 - **Doctor Portal**:[ https://prescripto-management-app-priya-kum.vercel.app/]
-- **Admin Portal**:  [https://prescripto-managemen-git-b365dd-priya-kumaris-projects-77f35f3b.vercel.app]
-
+- **Admin Portal**:  [https://prescripto-management-app-ol8u.vercel.app/]
+--**Backend Portal**: [https://prescripto-priya-render.onrender.com]
 ---
 
 ### 🔑 Demo Credentials
