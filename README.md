@@ -57,4 +57,17 @@ It features authentication, role-based portals, and is deployed via **Render**.
 
 ---
 
-## 📂 Project Structure
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/homepage.png)
+
+### Admin Panel
+![Admin Panel](screenshots/adminpanel.png)
+
+### All Doctors Page
+![All Doctors](screenshots/alldoctors.png)
+
+### Top Doctors Section
+![Top Doctors](screenshots/topdoctors.png)
+
